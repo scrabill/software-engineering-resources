@@ -25,3 +25,16 @@ Substitute a character in a string for another character
 ```ruby
 string.gsub("character-to-target","character-to-replace")
 ```
+
+## Terminal / CLI
+
+Open an item or folder in a specific application
+```
+application .
+```
+
+For example, to open a folder in Atom, you would use this command
+
+```
+atom .
+```
