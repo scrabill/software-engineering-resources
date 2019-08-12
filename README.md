@@ -7,7 +7,7 @@ A collection of resources, cheatsheets and code snippets I found helpful (or kep
 Run the following code to have bundler create a new Ruby project for you
 
 ```ruby
-bundler gem name-of-your-project-repo
+bundler gem name_of_your_project_repo
 ```
 
 ## Nokogiri
