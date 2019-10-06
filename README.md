@@ -34,6 +34,10 @@ Substitute a character in a string for another character
 string.gsub("character-to-target","character-to-replace")
 ```
 
+### Gems
+
+- [Corneal](https://github.com/thebrianemory/corneal). _A Ruby gem that is a Sinatra app generator with Rails-like simplicity_
+
 ## Terminal / CLI
 
 Open an item or folder in a specific application
