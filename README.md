@@ -4,6 +4,8 @@ A collection of resources, cheatsheets and code snippets I found helpful (or kep
 
 ## To-Dos
 
+- What is the difference between `find`, `find_by` & `find_by_id`?
+
 ## Bundler
 
 Run the following code to have bundler create a new Ruby project for you
