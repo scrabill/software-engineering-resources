@@ -7,6 +7,7 @@ A collection of resources, cheatsheets and code snippets I found helpful (or kep
 - What is the difference between `find`, `find_by` & `find_by_id`?
 - Sessions
 - RESTful routes
+- Atom packages
 
 ## Bundler
 
