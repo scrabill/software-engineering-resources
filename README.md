@@ -83,3 +83,15 @@ Clear the terminal window
 ```
 clear
 ```
+
+Create a new file
+
+```
+touch file-name.txt
+```
+
+Create a new directory
+
+```
+mkdir directory-name
+```
