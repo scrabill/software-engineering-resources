@@ -26,6 +26,8 @@ Open a new website for scraping
 Nokogiri:HTML(open("http://www.example.com"))
 ```
 
+## Rake
+
 ## Ruby
 
 Substitute a character in a string for another character
