@@ -34,6 +34,8 @@ See a list of all available Rake tasks.
 Rake -T
 ```
 
+### Seed Data
+
 ## Ruby
 
 Substitute a character in a string for another character
