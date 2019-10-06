@@ -28,6 +28,12 @@ Nokogiri:HTML(open("http://www.example.com"))
 
 ## Rake
 
+See a list of all available Rake tasks.
+
+```ruby
+Rake -T
+```
+
 ## Ruby
 
 Substitute a character in a string for another character
