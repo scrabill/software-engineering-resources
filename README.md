@@ -42,10 +42,10 @@ Rake -T
 
 ### Seed Data
 
-- Within the `db` folder, create a file named `seeds.rb`.
-- Create object instances. For example:
+1. Within the `db` folder, create a file named `seeds.rb`.
+1. Create object instances. For example:
 `Dog.create(:name => "Fido", :breed => "mutt")`. Using `create` as opposed to `new` creates the Ruby object _and_ saves it to the database
-- Run `rake db:seed`
+1. Run `rake db:seed`
 
 ## Ruby
 
