@@ -10,6 +10,14 @@ Run the following code to have bundler create a new Ruby project for you
 bundler gem name_of_your_project_repo
 ```
 
+## Forms
+
+A hidden input for editing or deleting data with a form
+
+```
+<input type="hidden" name="_method" value="patch">
+```
+
 ## Nokogiri
 
 Open a new website for scraping
