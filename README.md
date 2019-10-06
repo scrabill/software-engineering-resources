@@ -77,3 +77,9 @@ For example, to open a folder in Atom, you would use this command
 ```
 atom .
 ```
+
+Clear the terminal window
+
+```
+clear
+```
