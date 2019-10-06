@@ -2,6 +2,8 @@
 
 A collection of resources, cheatsheets and code snippets I found helpful (or kept forgetting) during my Flatiron Software Engineering bootcamp.
 
+## To-Dos
+
 ## Bundler
 
 Run the following code to have bundler create a new Ruby project for you
