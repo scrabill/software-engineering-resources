@@ -36,6 +36,7 @@ string.gsub("character-to-target","character-to-replace")
 
 ### Gems
 
+- [Bundler](https://bundler.io/)._Bundler provides a consistent environment for Ruby projects by tracking and installing the exact gems and versions that are needed._
 - [Corneal](https://github.com/thebrianemory/corneal). _A Ruby gem that is a Sinatra app generator with Rails-like simplicity_
 
 ## Terminal / CLI
