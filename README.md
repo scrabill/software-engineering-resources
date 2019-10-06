@@ -58,6 +58,7 @@ string.gsub("character-to-target","character-to-replace")
 
 ### Gems
 
+- [Bcrypt](https://github.com/codahale/bcrypt-ruby). _An easy way to keep your users' passwords secure._
 - [Bundler](https://bundler.io/)._Bundler provides a consistent environment for Ruby projects by tracking and installing the exact gems and versions that are needed._
 - [Corneal](https://github.com/thebrianemory/corneal). _A Ruby gem that is a Sinatra app generator with Rails-like simplicity_
 - [Faker](https://github.com/faker-ruby/faker). _A library for generating fake data such as names, addresses, and phone numbers._
