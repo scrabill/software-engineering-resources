@@ -97,3 +97,9 @@ Create a new directory
 ```
 mkdir directory-name
 ```
+
+Create a new branch and switch to it
+
+```
+git checkout -b branch-name
+```
