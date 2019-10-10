@@ -105,3 +105,10 @@ git checkout -b branch-name
 ```
 
 ## Markdown
+
+Create an alert box. Reference: https://stackoverflow.com/questions/50544499/how-to-make-a-styled-markdown-admonition-box-in-a-github-gist
+
+```
+| WARNING: Don't do the thing! |
+| --- |
+```
