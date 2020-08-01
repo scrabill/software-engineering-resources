@@ -2,6 +2,8 @@
 
 A collection of resources, cheatsheets and code snippets I found helpful (or kept forgetting) during my Flatiron Software Engineering bootcamp.
 
+> HEY FRIENDS! This repo/resource is a perpetual work in progress. I'm not sure how big I want to expand it, but had a thought to include some resources I am gathering for my own knowledge. I'm open to suggestions or contributions.
+
 ## To-Dos
 
 - What is the difference between `find`, `find_by` & `find_by_id`?
