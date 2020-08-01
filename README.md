@@ -11,6 +11,21 @@ A collection of resources, cheatsheets and code snippets I found helpful (or kep
 - RESTful routes
 - Atom packages
 
+## Algorithms
+
+_Resources recommended by others in the community._
+
+- [AlgoExpert](https://www.algoexpert.io/)
+- [BaseCS Podcast](https://www.codenewbie.org/basecs)
+- [Binary Search Trees | Data Structures in JavaScript](https://www.youtube.com/watch?v=6JeuJRqKJrI&feature=youtu.be)
+- [binarysearch.io](https://binarysearch.io/)
+- [The Coding Interview Bootcamp: Algorithms + Data Structures](https://www.udemy.com/course/coding-interview-bootcamp-algorithms-and-data-structure/)
+- [Cracking The Code Interview](https://www.youtube.com/playlist?list=PLX6IKgS15Ue02WDPRCmYKuZicQHit9kFt)
+- [De-Coding The Technical Interview Process](https://technicalinterviews.dev/)
+- [JavaScript Algorithms and Data Structures Certification](https://www.freecodecamp.org/learn)
+- [JavaScript Algorithms and Data Structures Masterclass](https://www.udemy.com/course/js-algorithms-and-data-structures-masterclass/)
+- [The Working Developer's Guide To Algorithms](https://scrimba.com/course/galgorithmsguide)
+
 ## Bundler
 
 Run the following code to have bundler create a new Ruby project for you
