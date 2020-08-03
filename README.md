@@ -21,6 +21,7 @@ _Resources recommended by others in the community._
 - [binarysearch.io](https://binarysearch.io/)
 - [The Coding Interview Bootcamp: Algorithms + Data Structures](https://www.udemy.com/course/coding-interview-bootcamp-algorithms-and-data-structure/)
 - [Cracking The Code Interview](https://www.youtube.com/playlist?list=PLX6IKgS15Ue02WDPRCmYKuZicQHit9kFt)
+- [Daily Coding Problem](https://www.dailycodingproblem.com/)
 - [De-Coding The Technical Interview Process](https://technicalinterviews.dev/)
 - [JavaScript Algorithms and Data Structures Certification](https://www.freecodecamp.org/learn)
 - [JavaScript Algorithms and Data Structures Masterclass](https://www.udemy.com/course/js-algorithms-and-data-structures-masterclass/)
