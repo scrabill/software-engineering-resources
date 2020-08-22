@@ -23,6 +23,8 @@ _Resources recommended by others in the community._
 - [Cracking The Code Interview](https://www.youtube.com/playlist?list=PLX6IKgS15Ue02WDPRCmYKuZicQHit9kFt)
 - [Daily Coding Problem](https://www.dailycodingproblem.com/)
 - [De-Coding The Technical Interview Process](https://technicalinterviews.dev/)
+- [HackerRank: Algorithms](https://www.youtube.com/playlist?list=PLI1t_8YX-ApvMthLj56t1Rf-Buio5Y8KL)
+- [HackerRack: Data Structures](https://www.youtube.com/watch?v=IhJGJG-9Dx8&list=PLI1t_8YX-Apv-UiRlnZwqqrRT8D1RhriX)
 - [JavaScript Algorithms and Data Structures Certification](https://www.freecodecamp.org/learn)
 - [JavaScript Algorithms and Data Structures Masterclass](https://www.udemy.com/course/js-algorithms-and-data-structures-masterclass/)
 - [The Working Developer's Guide To Algorithms](https://scrimba.com/course/galgorithmsguide)
