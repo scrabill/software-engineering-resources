@@ -70,6 +70,17 @@ Rake -T
 
 ## Ruby
 
+_Resources I have referenced or others have referenced_
+
+- [The Bastards Book of Ruby](http://ruby.bastardsbook.com/)
+- [DigitalOcean: How to Code in Ruby](https://www.digitalocean.com/community/tutorial_series/how-to-code-in-ruby)
+- [Dissecting my Ruby Project Skeleton](https://dev.to/maxwell_dev/dissecting-my-ruby-project-skeleton-4pd7)
+- [The Odin Project](https://www.theodinproject.com/courses/ruby-on-rails)
+- [Rubular: a Ruby regular expression editor](https://rubular.com/)
+- [Ruby Guides](https://www.rubyguides.com/)
+- [Why’s (Poignant) Guide to Ruby](https://poignant.guide/book/)
+
+
 Substitute a character in a string for another character
 
 ```ruby
