@@ -47,7 +47,19 @@ A hidden input for editing or deleting data with a form
 
 ## Git
 
+- [Create a new empty branch in Git](https://gist.github.com/ozh/4734410)
 - [How To Rename a Local and Remote Git Branch](https://linuxize.com/post/how-to-rename-local-and-remote-git-branch/)
+
+### Create a New, Empty Branch
+
+```git
+git checkout --orphan NEWBRANCH
+git rm -rf .
+```
+
+### Resources
+
+- [Changing a remote's URL](https://docs.github.com/en/free-pro-team@latest/github/using-git/changing-a-remotes-url)
 
 ## Nokogiri
 
