@@ -45,6 +45,10 @@ A hidden input for editing or deleting data with a form
 <input type="hidden" name="_method" value="patch">
 ```
 
+## Git
+
+- [How To Rename a Local and Remote Git Branch](https://linuxize.com/post/how-to-rename-local-and-remote-git-branch/)
+
 ## Nokogiri
 
 Open a new website for scraping
