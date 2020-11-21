@@ -50,6 +50,12 @@ A hidden input for editing or deleting data with a form
 - [Create a new empty branch in Git](https://gist.github.com/ozh/4734410)
 - [How To Rename a Local and Remote Git Branch](https://linuxize.com/post/how-to-rename-local-and-remote-git-branch/)
 
+### Delete a Local Branch
+
+```git
+git branch -d BRANCHNAME
+```
+
 ### Create a New, Empty Branch
 
 ```git
